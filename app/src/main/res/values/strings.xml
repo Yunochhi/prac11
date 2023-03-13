@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="task">Список дел</string>
+    <string name="task_one">Забрать посылку</string>
+    <string name="task_two">Выключить утюг</string>
+    <string name="task_date">10.03.2023</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="alarm">Будильник</string>
+    <string name="alarm_add">Добавить будильник</string>
+    <string name="alarm_time">07:30</string>
+    <string name="alarm_time2">08:30</string>
+    <string name="calendar">Календарь</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_text1">Профиль пользователя</string>
+    <string name="settings_text2">Дата и время</string>
+    <string name="settings_text3">Настройка звука</string>
+    <string name="settings_text4">Проверить обновления</string>
+    <string name="register">Регистрация</string>
+    <string name="register_text">Имя пользователя</string>
+    <string name="register_text2">Адрес электронной почты</string>
+    <string name="register_text3">Пароль</string>
+    <string name="register_button">Регистрация</string>
+    <string name="register_task_text">16:30</string>
+    <string name="register_task_text2">14.01.2021</string>
+    <string name="register_task_text3">Описание задачи</string>
+    <string name="change_task">Изменить задачу</string>
+    <string name="remove_task">Удалить задачу</string>
+    <string name="write_task">Записать задачу</string>
+    <string name="create_alarm">Создать будильник</string>
+    <string name="ponedelnik">Понедельник</string>
+    <string name="vtornik">Вторник</string>
+    <string name="sreda">Среда</string>
+    <string name="chetverg">Четверг</string>
+    <string name="pyatnica">Пятница</string>
+    <string name="subbota">Суббота</string>
+    <string name="vosresenie">Воскресенье</string>
+    <string name="povtor">Повторять каждый</string>
+    <string name="save_alarm">Сохранить будильник</string>
+    <string name="Remove_alarm">Удалить будильник</string>
+    <string name="profile">Профиль пользователя</string>
+    <string name="enter">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="warning">Вход не выполнен</string>
+    <string name="name">Имя пользователя</string>
+    <string name="pass">Пароль</string>
+
+</resources>
